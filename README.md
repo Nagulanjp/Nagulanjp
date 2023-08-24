@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nagulanjp
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Web Design
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me https://www.linkedin.com/in/nagulan-jayaprasath-063781218
 
